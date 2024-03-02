@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44223633807",
+    "project_id": "clientes-new-89b97",
+    "storage_bucket": "clientes-new-89b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44223633807:android:56c8da16a1e45f796b53fa",
+        "android_client_info": {
+          "package_name": "com.lewis23.newsession"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoDwNmh8epIeSkLJ4q1isxiSl59o9XmGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
